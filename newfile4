@@ -1,0 +1,5 @@
+$ aws configure
+AWS Access Key ID [None]: AAABBBCCCDDDEEEFFFGG
+AWS Secret Access Key [None]: aaabbbcccdddeeefffggghhhiiijjjkkklllmmmn
+Default region name [None]: us-east-1
+Default output format [None]: text
